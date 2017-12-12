@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sketchy-Message-Mailbox-Thing</title>
+    </head>
+    <style>
+      #masonsMessage {
+          float:right;
+          background-color:rgb(189, 185, 189);
+          padding:60px;
+      }
+      
+      #leasMessage {
+          float:left;
+          background-color:rgb(189, 185, 189);
+          padding:60px;
+      }
+    </style>
+    <body>
+      <h1 align="center">A Super Sketchy Mailbox</h1>
+      <hr>
+      <div id="masonsMessage"><h3>Mason Said</h3>
+        <!-- Mason, type your message in between the next <p> and </p>
+        -->
+        <p>        </p>
+        </div>
+        <div id="leasMessage"><h3>Lea Said</h3>
+        <!-- Lea,type your message in between the next <p> and </p>
+        -->
+        <p>          </p>
+        </div>
+    </body>
+</html>
